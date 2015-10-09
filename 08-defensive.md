@@ -24,7 +24,7 @@ and how to tell if it's *still* getting the right answer
 as we make changes to it.
 
 To achieve that,
-we need to:
+we need to perform three operations:
 
 *   Write programs that check their own operation.
 *   Write and run tests for widely-used functions.
